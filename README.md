@@ -25,7 +25,7 @@ git clone https://github.com/JanhviAditi/billing_system.git
 cd billing-system
 
 3.**Run the Python file**
-python billing.py
+python mcd.py
 (Make sure you have Python 3 installed.)
 
 ---
